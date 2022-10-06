@@ -1,1 +1,1 @@
-Write a script that adds execute permission to the owner and the group owner , and oher users to the file hole 
+Write a script tat adds execution permission to the owner, the group owner and the other users, to the file hello

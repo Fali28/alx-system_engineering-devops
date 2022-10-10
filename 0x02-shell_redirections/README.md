@@ -1,1 +1,1 @@
-Write a shell scipt that creates a file names exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing Best School ending a new file
+Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
